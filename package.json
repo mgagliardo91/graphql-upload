@@ -35,6 +35,8 @@
     "processRequest.js",
     "Upload.js"
   ],
+  "type": "commonjs",
+  "main": "./index.js",
   "sideEffects": false,
   "exports": {
     "./GraphQLUpload.js": "./GraphQLUpload.js",
